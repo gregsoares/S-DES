@@ -58,8 +58,6 @@ void testingFunc() {
 
   sboxFunc("00001111");
 
-  
-
   cout << "Plaintext: " << plainText << endl;
 
   // Testing all functions
